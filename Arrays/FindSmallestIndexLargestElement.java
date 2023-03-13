@@ -1,4 +1,6 @@
-public class Main {
+package MidtermReview.Arrays;
+
+public class FindSmallestIndexLargestElement {
     public static void main(String[] args){
         int[] myList={1,5,3,4,5,5};
         double max = myList[0];

@@ -2,7 +2,7 @@ package MidtermReview.Arrays;
 
 import java.util.Random;
 
-public class BinarySearchRandomArray {
+public class RandomArray {
     public static void main(String[] args) {
         // Make array
         int[] arr = new int[10];
