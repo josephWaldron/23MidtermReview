@@ -11,9 +11,8 @@ public class FindSmallestIndexLargestElement {
                 indexOfMax = i;
             }
         }
-            System.out.println("Largest element: "+max+"smallest index of max: "+indexOfMax);
-    
-                }
-            }   
+        System.out.println("Largest element: "+max+" index of max: "+indexOfMax);
+    }
+}   
 
         
